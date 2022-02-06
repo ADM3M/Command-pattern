@@ -1,0 +1,16 @@
+C:\Users\flysw\source\repos\NewCommandPattern\bin\Debug\net5.0\NewCommandPattern.exe
+C:\Users\flysw\source\repos\NewCommandPattern\bin\Debug\net5.0\NewCommandPattern.deps.json
+C:\Users\flysw\source\repos\NewCommandPattern\bin\Debug\net5.0\NewCommandPattern.runtimeconfig.json
+C:\Users\flysw\source\repos\NewCommandPattern\bin\Debug\net5.0\NewCommandPattern.runtimeconfig.dev.json
+C:\Users\flysw\source\repos\NewCommandPattern\bin\Debug\net5.0\NewCommandPattern.dll
+C:\Users\flysw\source\repos\NewCommandPattern\bin\Debug\net5.0\ref\NewCommandPattern.dll
+C:\Users\flysw\source\repos\NewCommandPattern\bin\Debug\net5.0\NewCommandPattern.pdb
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\NewCommandPattern.csproj.AssemblyReference.cache
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\NewCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\NewCommandPattern.AssemblyInfoInputs.cache
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\NewCommandPattern.AssemblyInfo.cs
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\NewCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\NewCommandPattern.dll
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\ref\NewCommandPattern.dll
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\NewCommandPattern.pdb
+C:\Users\flysw\source\repos\NewCommandPattern\obj\Debug\net5.0\NewCommandPattern.genruntimeconfig.cache
